@@ -1,5 +1,5 @@
 public class Queen extends Piece {
     public Queen() {
-    this.name = super.name;
+    super.name = "Queen";
 }
 }
